@@ -27,7 +27,7 @@ public class MainController {
     }
 
     public void onClickShowLicense(ActionEvent event){
-      //ToDo
+      //ToDo test
     }
 
     public void onClickSaveLicense(ActionEvent event){
